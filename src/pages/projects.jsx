@@ -4,12 +4,20 @@ import Image from 'next/image'
 import { Card } from '@/components/Card'
 import { SimpleLayout } from '@/components/SimpleLayout'
 import logoNC from '@/images/logos/NC-logo.jpeg'
-import logoCosmos from '@/images/logos/cosmos.svg'
-import logoHelioStream from '@/images/logos/helio-stream.svg'
-import logoOpenShuttle from '@/images/logos/open-shuttle.svg'
 import logoUnitaskr from '@/images/logos/unitaskr.png'
+import logoPrimate from '@/images/logos/primate.png'
 
 const projects = [
+  {
+    name: 'Primate',
+    description:
+      'This is a Demo Mobile app built using Ionic, Angular, and Capacitor.',
+    link: {
+      href: 'https://github.com/reed756/primate',
+      label: 'github.com',
+    },
+    logo: logoPrimate,
+  },
   {
     name: 'UniTaskr App',
     description:
