@@ -11,7 +11,7 @@ const projects = [
   {
     name: 'Primate',
     description:
-      'This is a Demo Mobile app built using Ionic, Angular, and Capacitor.',
+      'This is a Demo Mobile app that helps users find primates. Built using Ionic, Angular, Firebase and Capacitor.',
     link: {
       href: 'https://github.com/reed756/primate',
       label: 'github.com',
@@ -21,7 +21,7 @@ const projects = [
   {
     name: 'UniTaskr App',
     description:
-      'App for ios, android and web that connects businesses with a workforce of students.',
+      'App for ios, android and web that connects businesses with a workforce of students. Front end built using TypeScript, HTML, Scss, Angular, Firebase, and Capacitor.',
     link: {
       href: 'https://apps.apple.com/gb/app/unitaskr/id1195121378',
       label: 'apple.com',
@@ -31,7 +31,7 @@ const projects = [
   {
     name: 'Herd',
     description:
-      'Mobile App for music lovers to find local gigs and also chat.',
+      'Mobile App for music lovers to find local gigs and also chat. Built using Serverless Framework, AWS, Lambda, DynamoDB, SES, Amplify, Cognito, Cloudformation, React Native, Typescript, Node.js.',
     link: {
       href: 'https://northcoders.com/projects/march-2022/herd',
       label: 'northcoders.com',
@@ -39,8 +39,9 @@ const projects = [
     logo: logoNC,
   },
   {
-    name: 'News App and API',
-    description: 'Front end and back end for a News App built for the web.',
+    name: 'NC News',
+    description:
+      'Front end built using HTML, CSS, JavaScript, and React. Back end API built using Node.js and ExpressJS. Articles site built for the web.',
     link: { href: 'https://github.com/reed756/nc-news', label: 'github.com' },
     logo: logoNC,
   },
