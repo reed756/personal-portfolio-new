@@ -74,17 +74,17 @@ export default function About() {
                 development bootcamp at Northcoders in March 2022.
               </p>
               <p>
-                Currently, I am a Junior Software Developer at UniTaskr, where I
-                am leveraging my skills to build innovative software solutions.
-                During my time there I have helped build the UI for a brand new
-                app which serves a user base of over 250,000 students and
-                businesses. Following this, I have built the UI for the apps
-                premium subscription model which businesses can sign up to to
-                post jobs and tasks.
+                My previous position was as a Junior Front End Developer at
+                UniTaskr, where I leveraged my skills to build innovative
+                software solutions. During my time there I helped build the UI
+                for a brand new app which serves a user base of over 250,000
+                students and businesses. Following this, I built the UI for the
+                apps premium subscription model which businesses could sign up
+                to to post jobs and tasks.
               </p>
               <p>
-                Outside of work, I enjoy Muay Thai training, reading, going to
-                local music gigs, playing chess, and watching sports.
+                In my spare time I enjoy writing tech blogs, learning new
+                technologies and building projects.
               </p>
               <p>
                 With a strong drive to continuously learn and grow, I am excited
