@@ -11,7 +11,7 @@ const projects = [
   {
     name: 'Primate',
     description:
-      'This is a Demo Mobile app that helps nature enthusiasts find primates. Built using Ionic, Angular, Firebase and Capacitor. Also utilises mapbox.gl api for the home map screen',
+      'This is a Demo Mobile app that helps nature enthusiasts find primates. Built using Ionic, Angular, TypeScript, Firebase and Capacitor. Also utilises mapbox.gl api for the home map screen',
     link: {
       href: 'https://github.com/reed756/primate',
       label: 'github.com',
