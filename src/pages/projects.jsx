@@ -6,8 +6,19 @@ import { SimpleLayout } from '@/components/SimpleLayout'
 import logoNC from '@/images/logos/NC-logo.jpeg'
 import logoUnitaskr from '@/images/logos/unitaskr.png'
 import logoPrimate from '@/images/logos/primate.png'
+import logoSun from '@/images/logos/sun.svg'
 
 const projects = [
+  {
+    name: 'Weather Alert',
+    description:
+      'Weather App built using TypeScript, Angular, Tailwind.css, Preline UI, RxJS, Jasmine and Karma.',
+    link: {
+      href: 'https://github.com/reed756/weather-dashboard',
+      label: 'github.com',
+    },
+    logo: logoSun,
+  },
   {
     name: 'Primate',
     description:
