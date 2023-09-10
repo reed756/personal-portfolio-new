@@ -67,29 +67,48 @@ export default function About() {
             </h1>
             <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
               <p>
-                I made my start in coding through curriculums at FreeCodeCamp
-                and The Odin Project. Following this I entered a coding bootcamp
-                by Northcoders in November 2021 My dedication and hard work paid
-                off as I successfully completed a Full Stack software
-                development bootcamp at Northcoders in March 2022.
+                🇬🇧 Hey I'm a Front End Developer based in London!
+                <br />
+                🚀 I have nearly two years experience building frontends with
+                Angular, JavaScript, TypeScript, and Node.js.
               </p>
               <p>
-                My previous position was as a Junior Front End Developer at
-                UniTaskr, where I leveraged my skills to build innovative
-                software solutions. During my time there I helped build the UI
-                for a brand new app which serves a user base of over 250,000
-                students and businesses. Following this, I built the UI for the
-                apps premium subscription model which businesses could sign up
-                to to post jobs and tasks.
+                💻 Work experience with projects, software development.
+                <br />➡ Work experience in creating the front end for a brand
+                new app for mobile and web at a startup using TypeScript,
+                Angular, Ionic and Capacitor.
+                <br />
+                ➡️ Also built a dashboard there to show login and signup numbers
+                as well as trends with same stack as main app plus Firebase.
+                <br />➡ Development of systems with (Angular, Node.js,
+                TypeScript, JavaScript, React).
+                <br />
+                ➡️ Familiar with Tailwind.css framework and Ionic Mobile
+                framework.
+                <br />
+                ➡️ Familiar with Backend frameworks such as Express.js and
+                Nest.js.
+                <br />
+                ➡️ Familiar with testing tools such as Jasmine, Karma, and Jest.
+                <br />
+                ➡️ Solid knowledge of SOLID programming principles.
+                <br />
+                ➡️ Solid knowledge of both functional programming and Object
+                Oriented Programming principles.
+                <br />
+                ➡️ Solid knowledge of using REST API's.
+                <br />
+                ➡️ Experience with Agile methodology.
+                <br />
+                ➡️ Version control with Git and Github.
               </p>
               <p>
-                In my spare time I enjoy writing tech blogs, learning new
-                technologies and building projects.
+                🎓Coding Bootcamp Graduate Northcoders Skills Bootcamp in
+                Software Development.
               </p>
               <p>
-                With a strong drive to continuously learn and grow, I am excited
-                for the opportunities to make an impact in the field of software
-                development.
+                📈 I'm always looking for things to learn or build and open to
+                new challenges.
               </p>
             </div>
           </div>

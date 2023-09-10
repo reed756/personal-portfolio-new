@@ -74,14 +74,11 @@ export default function Projects() {
     <>
       <Head>
         <title>Projects - James Reed</title>
-        <meta
-          name="description"
-          content="Building Digital Solutions, One Line at a Time."
-        />
+        <meta name="description" content="Always Building, Always Learning." />
       </Head>
       <SimpleLayout
-        title="Building Digital Solutions, One Line at a Time."
-        intro="Welcome to my world of digital innovation, where I'm thrilled to share the projects I've crafted with passion and expertise. As a software developer, I've turned countless creative ideas into functional software solutions. From developing interactive web applications to building cutting-edge mobile apps, these projects represent the culmination of my hard work and dedication. Each project showcases unique aspects, technologies, and challenges that have fueled my passion for software development. Join me on this journey as I share my proudest achievements and demonstrate how I've translated my ideas into digital realities."
+        title="Always Building, Always Learning."
+        intro="Welcome to my portfolio! This is a list of my projects that I've worked on both professionally and in my own time. I like to continue to push my skills and build on my knowledge to become the best developer I can be."
       >
         <ul
           role="list"
