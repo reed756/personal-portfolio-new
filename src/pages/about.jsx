@@ -45,7 +45,7 @@ export default function About() {
         <title>About - James Reed</title>
         <meta
           name="description"
-          content="I’m James Reed. I live in London, where I develop apps for ios, android and web."
+          content="I'm James Reed. I live in London, where I develop apps for ios, android and web."
         />
       </Head>
       <Container className="mt-16 sm:mt-32">
@@ -62,12 +62,12 @@ export default function About() {
           </div>
           <div className="lg:order-first lg:row-span-2">
             <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
-              I’m James Reed. I live in London, where I develop apps for mobile
-              and web.
+              I&apos;m James Reed. I live in London, where I develop apps for
+              mobile and web.
             </h1>
             <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
               <p>
-                🇬🇧 Hey I'm a Front End Developer based in London!
+                🇬🇧 Hey I&apos;m a Front End Developer based in London!
                 <br />
                 🚀 I have nearly two years experience building frontends with
                 Angular, JavaScript, TypeScript, and Node.js.
@@ -96,7 +96,7 @@ export default function About() {
                 ➡️ Solid knowledge of both functional programming and Object
                 Oriented Programming principles.
                 <br />
-                ➡️ Solid knowledge of using REST API's.
+                ➡️ Solid knowledge of using REST API&apos;s.
                 <br />
                 ➡️ Experience with Agile methodology.
                 <br />
@@ -107,8 +107,8 @@ export default function About() {
                 Software Development.
               </p>
               <p>
-                📈 I'm always looking for things to learn or build and open to
-                new challenges.
+                📈 I&apos;m always looking for things to learn or build and open
+                to new challenges.
               </p>
             </div>
           </div>
