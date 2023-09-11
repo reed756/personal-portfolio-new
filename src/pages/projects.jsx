@@ -7,15 +7,26 @@ import logoNC from '@/images/logos/NC-logo.jpeg'
 import logoUnitaskr from '@/images/logos/unitaskr.png'
 import logoPrimate from '@/images/logos/primate.png'
 import logoSun from '@/images/logos/sun.svg'
+import logoEuro from '@/images/logos/euro.svg'
 
 const projects = [
+  {
+    name: 'Currency Converter',
+    description:
+      'Currency converter app built using TypeScript, Angular, Ionic, RxJS, Jasmine and Karma. Uses fixer API on the backend.',
+    link: {
+      href: 'https://github.com/reed756/currency-converter',
+      label: 'Link to GitHub repository',
+    },
+    logo: logoEuro,
+  },
   {
     name: 'Weather Alert',
     description:
       'Weather App built using TypeScript, Angular, Tailwind.css, Preline UI, RxJS, Jasmine and Karma.',
     link: {
       href: 'https://github.com/reed756/weather-dashboard',
-      label: 'github.com',
+      label: 'Link to GitHub repository',
     },
     logo: logoSun,
   },
@@ -25,7 +36,7 @@ const projects = [
       'This is a Demo Mobile app that helps nature enthusiasts find primates. Built using Ionic, Angular, TypeScript, Firebase and Capacitor. Also utilises mapbox.gl api for the home map screen',
     link: {
       href: 'https://github.com/reed756/primate',
-      label: 'github.com',
+      label: 'Link to GitHub repository',
     },
     logo: logoPrimate,
   },
@@ -34,8 +45,8 @@ const projects = [
     description:
       'App for ios, android and web that connects businesses with a workforce of students. Front end built using TypeScript, HTML, Scss, Angular, Firebase, and Capacitor.',
     link: {
-      href: 'https://apps.apple.com/gb/app/unitaskr/id1195121378',
-      label: 'apple.com',
+      href: 'https://web.unitaskr.com/landing',
+      label: 'Link to UniTaskr web application',
     },
     logo: logoUnitaskr,
   },
@@ -44,8 +55,8 @@ const projects = [
     description:
       'Mobile App for music lovers to find local gigs and also chat. Built using Serverless Framework, AWS, Lambda, DynamoDB, SES, Amplify, Cognito, Cloudformation, React Native, Typescript, Node.js.',
     link: {
-      href: 'https://northcoders.com/projects/march-2022/herd',
-      label: 'northcoders.com',
+      href: 'https://github.com/reed756/ReactNativeTypeScript',
+      label: 'Link to GitHub repository',
     },
     logo: logoNC,
   },
@@ -53,7 +64,10 @@ const projects = [
     name: 'NC News',
     description:
       'Front end built using HTML, CSS, JavaScript, and React. Back end API built using Node.js and ExpressJS. Articles site built for the web.',
-    link: { href: 'https://github.com/reed756/nc-news', label: 'github.com' },
+    link: {
+      href: 'https://github.com/reed756/nc-news',
+      label: 'Link to GitHub repository',
+    },
     logo: logoNC,
   },
 ]
