@@ -63,7 +63,7 @@ const projects = [
   {
     name: 'NC News',
     description:
-      'Front end built using HTML, CSS, JavaScript, and React. Back end API built using Node.js and ExpressJS. Articles site built for the web.',
+      'News article site built using JavaScript, Node.js, React.js, Express.js and PostgreSQL. Also followed TDD principles and used Jest for testing both frontend and backend. Front End UI hosted on Netlify and Backend API hosted on Render.',
     link: {
       href: 'https://github.com/reed756/nc-news',
       label: 'Link to GitHub repository',
