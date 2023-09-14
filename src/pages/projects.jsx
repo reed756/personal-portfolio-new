@@ -11,16 +11,6 @@ import logoEuro from '@/images/logos/euro.svg'
 
 const projects = [
   {
-    name: 'Currency Converter',
-    description:
-      'Currency converter app built using TypeScript, Angular, Ionic, RxJS, Jasmine and Karma. Uses fixer API on the backend.',
-    link: {
-      href: 'https://github.com/reed756/currency-converter',
-      label: 'Link to GitHub repository',
-    },
-    logo: logoEuro,
-  },
-  {
     name: 'Weather Alert',
     description:
       'Weather App built using TypeScript, Angular, Tailwind.css, Preline UI, RxJS, Jasmine and Karma.',
