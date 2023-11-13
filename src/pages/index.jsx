@@ -266,17 +266,6 @@ export default function Home({ articles }) {
           </p>
           <div className="mt-6 flex gap-6">
             <SocialLink
-              href="https://twitter.com/reedandj1"
-              aria-label="Follow on Twitter"
-              icon={TwitterIcon}
-              target="_blank"
-            />
-            {/* <SocialLink
-              href="https://instagram.com"
-              aria-label="Follow on Instagram"
-              icon={InstagramIcon}
-            /> */}
-            <SocialLink
               href="https://github.com/reed756"
               aria-label="Follow on GitHub"
               icon={GitHubIcon}
@@ -292,19 +281,6 @@ export default function Home({ articles }) {
         </div>
       </Container>
       <Photos />
-      {/* <Container className="mt-24 md:mt-28">
-        <div className="mx-auto grid max-w-xl grid-cols-1 gap-y-20 lg:max-w-none lg:grid-cols-2">
-          <div className="flex flex-col gap-16">
-            {articles.map((article) => (
-              <Article key={article.slug} article={article} />
-            ))}
-          </div>
-          <div className="space-y-10 lg:pl-16 xl:pl-24">
-            <Newsletter />
-            <Resume />
-          </div>
-        </div>
-      </Container> */}
     </>
   )
 }
